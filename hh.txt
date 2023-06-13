@@ -8,3 +8,4 @@ bb
 
 main------------------------
 ok có người B sửa A
+dưới local cũng code dòng 11
