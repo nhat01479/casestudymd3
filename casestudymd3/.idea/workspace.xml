@@ -4,7 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f250bf4-1d87-48c2-b23d-92206af53d25" name="Changes" comment="" />
+    <list default="true" id="9f250bf4-1d87-48c2-b23d-92206af53d25" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataSources/hello.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/casestudymd3/ProductServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/casestudymd3/service/DBContext.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HEllo.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../HEllo.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hh - Copy.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../hh - Copy.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hh.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../hh.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,7 +62,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1686662334268</updated>
-      <workItem from="1686662336162" duration="1481000" />
+      <workItem from="1686662336162" duration="1559000" />
     </task>
     <servers />
   </component>
